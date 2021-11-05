@@ -1,2 +1,3 @@
 BALE resolusi
 -Belajar Pyton
+-Belajar kembali Web developer
