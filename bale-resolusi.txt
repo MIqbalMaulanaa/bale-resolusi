@@ -1,3 +1,4 @@
 BALE resolusi
+-Belajar C++
 -Belajar Pyton
 -Belajar kembali Web developer
